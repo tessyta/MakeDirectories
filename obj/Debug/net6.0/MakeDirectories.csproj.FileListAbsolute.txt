@@ -1,0 +1,15 @@
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\bin\Debug\net6.0\MakeDirectories.exe
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\bin\Debug\net6.0\MakeDirectories.deps.json
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\bin\Debug\net6.0\MakeDirectories.runtimeconfig.json
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\bin\Debug\net6.0\MakeDirectories.dll
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\bin\Debug\net6.0\MakeDirectories.pdb
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\obj\Debug\net6.0\MakeDirectories.csproj.AssemblyReference.cache
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\obj\Debug\net6.0\MakeDirectories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\obj\Debug\net6.0\MakeDirectories.AssemblyInfoInputs.cache
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\obj\Debug\net6.0\MakeDirectories.AssemblyInfo.cs
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\obj\Debug\net6.0\MakeDirectories.csproj.CoreCompileInputs.cache
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\obj\Debug\net6.0\MakeDirectories.dll
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\obj\Debug\net6.0\refint\MakeDirectories.dll
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\obj\Debug\net6.0\MakeDirectories.pdb
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\obj\Debug\net6.0\MakeDirectories.genruntimeconfig.cache
+C:\Users\tessy\OneDrive\Documents\LearnProgramming\MyProjects\MakeDirectories\MakeDirectories\obj\Debug\net6.0\ref\MakeDirectories.dll
